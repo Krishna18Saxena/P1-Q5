@@ -1,0 +1,7 @@
+{
+  "prompt": "A hyper-realistic, cinematic photograph, 2048x2048 resolution, full-frame DSLR quality. An adult person sits on the floor in a dimly lit room, surrounded by hundreds of black balloons that have filled the space from floor to ceiling. The balloons are dense, oppressive, and press inward from all sides, leaving only a small pocket of space around the person. The person looks upward as the balloons continue to crowd in. A faint window in the background reveals a hazy, polluted sky. Soft dramatic lighting, strong shadows, high detail textures, emotionally heavy atmosphere, physically plausible scene. No text, no labels, no symbols, no diagrams. Ensure ultra high resolution, minimum 2048px on both dimensions, sharp focus, realistic photography.",
+  "model": "Gemini 2.0 Flash Image (Nano Banana)",
+  "dataset_name": "Global CO2 emissions",
+  "dataset_url": "https://ourworldindata.org/co2-emissions",
+  "insight": "Carbon emissions are steadily increasing, creating an increasingly suffocating and constrained environment over time."
+}
